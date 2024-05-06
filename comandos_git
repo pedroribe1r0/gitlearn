@@ -2,6 +2,17 @@ git init - inicia o repositorio na pasta atual
 git status - mostra arquivos estão trackeados
 git add - adiciona arquivos ao projetos(os não trackeados)
 git commit -a -m "mensagem do commit"- commitar os arquivos incluidos no projeto
+git commit --amend - atualiza um commit anterior
 git branch -M - altera o nome da branch
 git push -u origin master - commita a branch master
-teste
+git pull -u origin master
+git checkout -b "teste Branch" - adiciona um novo branch
+git branch nomeDoBranch - adiciona um novo branch
+git checkout NomeDaBranch - troca para a branch escolhida e ja muda para ela
+git branch -D nomeDaBranch - deleta uma branch
+git clone url - clona o repositorio
+git diff - mostra as alterações feitas
+git clean -f - remove arquivos adicionados
+git checkout endereçoDoArquivo - desfaz as mudanças feitas
+git restore nomeDoArquivo - desfaz as mudanças feitas
+git reset nomeDoArquivo - tira o arquivo da stage
