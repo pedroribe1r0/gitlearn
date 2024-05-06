@@ -1,0 +1,4 @@
+git init - inicia o repositorio na pasta atual
+git status - mostra arquivos estão trackeados
+git add - adiciona arquivos ao projetos(os não trackeados)
+git commit -a -m "mensagem do commit"- commitar os arquivos incluidos no projeto
