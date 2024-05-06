@@ -16,4 +16,3 @@ git clean -f - remove arquivos adicionados
 git checkout endereçoDoArquivo - desfaz as mudanças feitas
 git restore nomeDoArquivo - desfaz as mudanças feitas
 git reset nomeDoArquivo - tira o arquivo da stage
-teste
