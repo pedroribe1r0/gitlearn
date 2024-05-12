@@ -2,6 +2,7 @@
 
 int main(){
 
+    printf("teste");
     //testando
 
     return 0;
