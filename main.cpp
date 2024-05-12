@@ -2,9 +2,7 @@
 
 int main(){
 
-    //testa~23
-
-    //~ ''' ~
+    //testando
 
     return 0;
 }
